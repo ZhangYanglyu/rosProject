@@ -1,0 +1,8 @@
+prefix=/home/zhyang/catkin_ws/devel
+
+Name: irobot_plugin
+Description: Description of irobot_plugin
+Version: 0.1.0
+Cflags: -I/home/zhyang/catkin_ws/src/irobot/irobot_plugin/include
+Libs: -L${prefix}/lib -lirobot_plugin
+Requires: gazebo_ros roscpp geometry_msgs gazebo_msgs roscpp gazebo_ros

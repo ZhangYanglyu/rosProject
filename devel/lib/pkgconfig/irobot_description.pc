@@ -1,0 +1,8 @@
+prefix=/home/zhyang/catkin_ws/devel
+
+Name: irobot_description
+Description: Description of irobot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp gazebo_ros

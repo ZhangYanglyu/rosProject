@@ -1,0 +1,2 @@
+set(action_demo_MESSAGE_FILES "/home/zhyang/catkin_ws/devel/share/action_demo/msg/LinewalkAction.msg;/home/zhyang/catkin_ws/devel/share/action_demo/msg/LinewalkActionGoal.msg;/home/zhyang/catkin_ws/devel/share/action_demo/msg/LinewalkActionResult.msg;/home/zhyang/catkin_ws/devel/share/action_demo/msg/LinewalkActionFeedback.msg;/home/zhyang/catkin_ws/devel/share/action_demo/msg/LinewalkGoal.msg;/home/zhyang/catkin_ws/devel/share/action_demo/msg/LinewalkResult.msg;/home/zhyang/catkin_ws/devel/share/action_demo/msg/LinewalkFeedback.msg")
+set(action_demo_SERVICE_FILES "")
